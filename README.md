@@ -12,7 +12,7 @@ MARIO BROS
 
 ![Design preview from the calculator](./assets/images/print-mario.png)
 
-<p align="center"><a href="https://luiabdiel.github.io/shield/" target="_blank">Click here</a> to view it</p>
+<p align="center"><a href="https://luiabdiel.github.io/super-mario/" target="_blank">Click here</a> to view it</p>
 
 <hr>
 
